@@ -15,7 +15,7 @@
 		<spring.version>4.2.9.RELEASE</spring.version>
 		<mysql-connector-java.version>5.1.34</mysql-connector-java.version>
 		<activiti.version>5.21.0</activiti.version>
-		<batik.version>1.7</batik.version>
+		<batik.version>1.14</batik.version>
 	</properties>
 
 	<dependencies>
